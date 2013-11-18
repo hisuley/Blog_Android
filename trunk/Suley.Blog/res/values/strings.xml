@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">时光纪</string>
+    <string name="dummy_button">退出</string>
+    <string name="dummy_content">时光纪\n载入中</string>
+
+</resources>
